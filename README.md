@@ -1,0 +1,1 @@
+This is example code to demonstrate a bug in React Navigation for issue [#374](https://github.com/react-community/react-navigation/issues/374). The bug occurs when a DrawerNavigator is used inside of a StackNavigator, with the header going blank when the drawer is opened.
